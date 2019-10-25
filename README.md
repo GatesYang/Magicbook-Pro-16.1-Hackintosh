@@ -8,25 +8,27 @@
 | CPU  | Intel Whiskey Lake i5 8265U |
 | 内存 | DDR4 2666 8G|
 | 显卡 | Intel UHD620 2048 MB & NVIDIA MX250|
-| 硬盘 | HS C2000 Pro 1TB|
+| 硬盘 | HS(海康威视) C2000 Pro 1TB|
 | 声卡 | Realtek ?|
 | 屏幕 | 1920*1080|
 | SMBIOS | Macbook Pro 15,2|
 | Clover | Updated to 5097|
 
 ### 目前可用的设备
-* 核芯显卡 (被识别成UHD630 Mobile)
-* 扬声器/耳机 (使用VoodooHDA-2.9.2，AppleALC暂时不可用)
+* 核芯显卡 (正确识别成UHD620 Mobile Whiskey Lake 2048 MB)
+* 扬声器/耳机/麦克风 (使用VoodooHDA-2.9.2，AppleALC暂时不可用)
 * USB3.0/2.0
-* FN+f1,f2亮度调节
+* 显示器亮度调节
+* FN+f1,f2亮度调节（外接USB更改快捷键）,非FN+F4,F5,F6调节音量（静音，音量减，音量加）
 * 电池电量显示
+* 关盖睡眠以及唤醒（未测试休眠耗电）
 
 ### 目前不可用
-* 摄像头
+* 摄像头（Facetime）
 * 触摸板
 * HDMI输出
-* 睡眠以及唤醒
 * UHD620的HEVC解码
+* 随航（sidecar）可能和HEVC或者蓝牙有关
 
 ### 无法驱动的设备
 * WIFI/蓝牙
@@ -38,7 +40,7 @@
 * CPU 变频
 
 ### 说明
-作者本人也是黑苹果新手一枚，有Z390 M Gaming的成功安装经历，现在入手了Magicbook Pro但发现全网都没有人做EFI(可能是因为自带的PM981?)，所以献丑自己摸索了整整三天做了一个暂时不完善的EFI，用了TB的USB网卡目前看看网页写写文档都没问题，还有很多地方没有完善，其实我也有很多不会的地方，希望能和大家交流学习，一起完善这个EFI，我也会长期更新这个EFI~
+作者本人也是黑苹果新手一枚，有Z390 M Gaming的成功安装经历，现在入手了Magicbook Pro但发现全网都没有人做EFI(可能是因为自带的三星PM981?)，所以献丑自己摸索了整整三天做了一个暂时不完善的EFI，用了TB的USB网卡，目前看看网页写写文档都没问题，还有很多地方没有完善，其实我也有很多不会的地方，希望能和大家交流学习，一起完善这个EFI，我也会长期更新这个EFI~
 
 ### 感谢：
 * 1.黑苹果长期维护清单[github: frezs/MateBook14-Hackintosh](https://github.com/frezs/MateBook14-Hackintosh)
