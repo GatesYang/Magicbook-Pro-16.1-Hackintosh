@@ -1,4 +1,4 @@
-# Magicbook-Pro-16.1-Hackintosh 黑苹果初测
+# Magicbook-Pro-16.1-Hackintosh 黑苹果尝鲜版
 >Install macOS Catalina 10.15 19A583 from Huawei Honor Magicbook Pro 16.1 HBL-W19L
 
 ### 详细配置参数
@@ -11,7 +11,6 @@
 | 硬盘 | HS C2000 Pro 1TB|
 | 声卡 | Realtek ?|
 | 屏幕 | 1920*1080|
-
 | SMBIOS | Macbook Pro 15,2|
 | Clover | Updated to 5097|
 
