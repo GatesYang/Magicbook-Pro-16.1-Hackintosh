@@ -13,6 +13,7 @@
 | 屏幕 | 1920*1080|
 
 | SMBIOS | Macbook Pro 15,2|
+| Clover | Updated to 5097|
 
 ### 目前可用的设备
 * 核芯显卡 (被识别成UHD630 Mobile)
@@ -38,10 +39,11 @@
 * CPU 变频
 
 ### 说明
-    作者本人也是黑苹果新手一枚，有Z390 M Gaming的成功安装经历，现在入手了Magicbook Pro但发现全网都没有人做EFI(可能是因为自带的PM981?)，所以献丑自己摸索了整整三天做了一个暂时不完善的EFI，用了TB的USB网卡目前看看网页写写文档都没问题，还有很多地方没有完善，其实我也有很多不会的地方，希望能和大家交流学习，一起完善这个EFI，我也会长期更新这个EFI~
+作者本人也是黑苹果新手一枚，有Z390 M Gaming的成功安装经历，现在入手了Magicbook Pro但发现全网都没有人做EFI(可能是因为自带的PM981?)，所以献丑自己摸索了整整三天做了一个暂时不完善的EFI，用了TB的USB网卡目前看看网页写写文档都没问题，还有很多地方没有完善，其实我也有很多不会的地方，希望能和大家交流学习，一起完善这个EFI，我也会长期更新这个EFI~
 
-### 参考作品
-* 1.黑苹果长期维护清单的Matebook 14 @frezs/MateBook14-Hackintosh
-* 2.黑苹果长期维护清单的@hjmmc/Honor-Magicbook
-* 3.【黑果小兵】macOS Catalina 10.15 19A583 正式版 with Clover 5096原版镜像[双EFI双平台版]
-* 4.【黑果小兵】Hackintool(原Intel FB-Patcher)使用教程及插入姿势
+### 感谢：
+* 1.黑苹果长期维护清单[github: frezs/MateBook14-Hackintosh](https://github.com/frezs/MateBook14-Hackintosh)
+* 2.黑苹果长期维护清单[github: hjmmc/Honor-Magicbook](https://github.com/hjmmc/Honor-Magicbook)
+* 3.[黑果小兵]macOS Catalina 10.15 19A583 正式版 with Clover 5096原版镜像[双EFI双平台版]
+* 4.[黑果小兵]Hackintool(原Intel FB-Patcher)使用教程及插入姿势
+* 5.[远景论坛-微软极客社区](http://www.pcbeta.com)
