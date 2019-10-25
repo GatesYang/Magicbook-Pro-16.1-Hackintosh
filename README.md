@@ -43,6 +43,7 @@
 ### 感谢：
 * 1.黑苹果长期维护清单[github: frezs/MateBook14-Hackintosh](https://github.com/frezs/MateBook14-Hackintosh)
 * 2.黑苹果长期维护清单[github: hjmmc/Honor-Magicbook](https://github.com/hjmmc/Honor-Magicbook)
-* 3.[黑果小兵]macOS Catalina 10.15 19A583 正式版 with Clover 5096原版镜像[双EFI双平台版]
-* 4.[黑果小兵]Hackintool(原Intel FB-Patcher)使用教程及插入姿势
-* 5.[远景论坛-微软极客社区](http://www.pcbeta.com)
+* 3.黑苹果长期维护清单[github: 4323770/Hackintosh-For-Matebook-X](https://github.com/4323770/Hackintosh-For-Matebook-X)
+* 4.[黑果小兵]macOS Catalina 10.15 19A583 正式版 with Clover 5096原版镜像[双EFI双平台版]
+* 5.[黑果小兵]Hackintool(原Intel FB-Patcher)使用教程及插入姿势
+* 6.[远景论坛-微软极客社区](http://www.pcbeta.com)
