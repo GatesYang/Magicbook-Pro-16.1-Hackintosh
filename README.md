@@ -14,7 +14,8 @@
 | SMBIOS | Macbook Pro 15,2|
 | Clover | Updated to 5097|
 
-大家直接在Release下载吧，不在code里面上传更新了[GatesYang/Magicbook-Pro-16.1-Hackintosh/releases] (https://github.com/GatesYang/Magicbook-Pro-16.1-Hackintosh/releases)
+大家直接在Release下载吧，不在code里面上传更新了
+[GatesYang/Magicbook-Pro-16.1-Hackintosh/releases](https://github.com/GatesYang/Magicbook-Pro-16.1-Hackintosh/releases)
 
 ### 更新
 -2019.10.26 v1.2 音频驱动替换为AppleALC（上一版是VoodooHDA）
