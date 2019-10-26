@@ -41,6 +41,7 @@
 * HDMI输出
 * UHD620的HEVC解码
 * 随航（sidecar）可能和HEVC或者蓝牙有关
+* iMessage
 
 ### 无法驱动的设备
 * WIFI/蓝牙
