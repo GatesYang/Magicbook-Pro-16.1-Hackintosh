@@ -4,11 +4,11 @@
 ### 详细配置参数
 | 项目 | 详细参数|
 | :--: | :-------------------- |
-| 型号 | Magicbook Pro 16.1 HBL-W19L    |
+| 型号 | Magicbook Pro 16.1 HBL-W19L |
 | CPU  | Intel Whiskey Lake i5 8265U |
 | 内存 | DDR4 2666 8G|
 | 显卡 | Intel UHD620 2048 MB & NVIDIA MX250|
-| 硬盘 | HS(海康威视) C2000 Pro 1TB|
+| 硬盘 | HS(海康威视) C2000 Pro 1TB （自己购买替换的）|
 | 声卡 | Realtek ALC 256|
 | 屏幕 | 1920*1080|
 | SMBIOS | Macbook Pro 15,2|
@@ -16,6 +16,9 @@
 
 大家直接在Release下载吧，不在code里面上传更新了
 [GatesYang/Magicbook-Pro-16.1-Hackintosh/releases](https://github.com/GatesYang/Magicbook-Pro-16.1-Hackintosh/releases)
+
+### 更新预告
+-等Whatevergreen更新了Whiskey Lake的UHD620驱动后，我会重新优化一下EFI，搞定USB-C，HDMI和HEVC解码问题
 
 ### 更新
 -2019.10.26 v1.2 音频驱动替换为AppleALC（上一版是VoodooHDA）
@@ -38,6 +41,7 @@
 * 关盖睡眠以及唤醒（未测试休眠耗电）
 
 ### 目前不可用
+* USB-C 输出（插入扩展坞会导致直接死机，尝试多次都是这样，大家尽量先别用）
 * 摄像头（Facetime）
 * 触摸板
 * HDMI输出
@@ -46,12 +50,11 @@
 * iMessage
 
 ### 无法驱动的设备
-* WIFI/蓝牙
+* WIFI/蓝牙（CNVI协议网卡全球无解）
 * MX250
 * 指纹识别
 
 ### 未测试的设备
-* USB-C 输出
 * CPU 变频
 
 ### 说明
