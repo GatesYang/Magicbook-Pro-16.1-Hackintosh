@@ -1,5 +1,5 @@
 # Magicbook-Pro-16.1-Hackintosh 黑苹果尝鲜版
->Install macOS Catalina 10.15 19A583 from Huawei Honor Magicbook Pro 16.1 HBL-W19L
+>Install macOS Catalina 10.15.1 19B88 from Huawei Honor Magicbook Pro 16.1 HBL-W19L
 
 ### 详细配置参数
 | 项目 | 详细参数|
@@ -24,7 +24,7 @@
 -2019.11.18 v1.3 
 * 1.加入完整的CPU变频、睿频
 * 2.支持至10.15.1
-
+* 3.SMBIOS修改成Macbook Pro 15,4
 -2019.10.26 v1.2 音频驱动替换为AppleALC（上一版是VoodooHDA）
 
 -2019.10.25 v1.1 
