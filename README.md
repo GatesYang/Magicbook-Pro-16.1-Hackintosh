@@ -1,5 +1,5 @@
 # Magicbook-Pro-16.1-Hackintosh 黑苹果尝鲜版
->Install macOS Catalina 10.15.1 19B88 from Huawei Honor Magicbook Pro 16.1 HBL-W19L
+>Install macOS Catalina 10.15.2 19C57 from Huawei Honor Magicbook Pro 16.1 HBL-W19L
 
 ### 详细配置参数
 | 项目 | 详细参数|
@@ -17,10 +17,16 @@
 大家直接在Release下载吧，不在code里面上传更新了
 [GatesYang/Magicbook-Pro-16.1-Hackintosh/releases](https://github.com/GatesYang/Magicbook-Pro-16.1-Hackintosh/releases)
 
-### 更新预告
--等Whatevergreen更新了Whiskey Lake的UHD620驱动后，我会重新优化一下EFI，搞定USB-C，HDMI和HEVC解码问题
-
+### 写在前面
+  其实这个EFI我也是无偿提供，纯个人兴趣而且想让每一位热爱黑苹果，使用爱机Magicbook Pro 16.1的大家一起开心，一起折腾，一起研究的，众所周知这是个开源项目，是无偿的，我看见有人在其它地方使用我的EFI，不说明出处就算了，还指责我的EFI“有毛病”。换位思考一下，如果是你自己辛辛苦苦花了大量时间来调试来摸索的一个EFI，别人不仅不对你表示感谢，还对你进行指责，我觉得这种事情确实令人不解。当然了，也有很多支持我的朋友，很多朋友也为我反馈BUG，提出可行方案，我很感动，我是一个黑果小白，不是敲代码如流水的大神，如果不喜欢我的EFI大可以去TB花钱找人定制一个完美的EFI，我在EFI里面既没有留下作者信息也没有留下印记，就是想让大家能一起学习交流一起进步，希望Magicbook Pro这台机子能陪伴我们走得更远，为我们提供更大的生产力和潜力。感谢大家使用我的EFI，有问题欢迎一起交流！
+  
 ### 更新
+-2019.12.12 v1.5 
+* 1.修复UHD620显卡驱动，USB-C输出（1080P@144Hz），HDMI输出（1080P@144Hz），手上没有2K以上的显示器无法测试，但理论上应该都支持
+* 2.H.264 & HEVC 解码均修复，目前都可用
+* 3.更新Whatevergreen和Lilu
+* 4.支持至10.15.2
+
 -2019.11.18 v1.3 
 * 1.加入完整的CPU变频、睿频
 * 2.支持至10.15.1
@@ -47,16 +53,14 @@
 * CPU 变频(900MHz~3900MHz)，11个档位，睿频正常
 
 ### 目前不可用
-* USB-C 输出（插入扩展坞会导致直接死机，尝试多次都是这样，大家尽量先别用）
 * iMessage、Facetime、Siri（和网卡有关，需要等网卡解决了才能解决）
 * 触摸板（暂时编译不成功）
-* HDMI输出
-* UHD620的HEVC解码
-* 随航（sidecar）可能和HEVC或者蓝牙有关
+* 随航（sidecar）可能和蓝牙有关
 * 摄像头
+* 蓝牙（从Windows热启动有时可用，玄学）
 
 ### 无法驱动的设备
-* WIFI/蓝牙（CNVI协议网卡全球无解）
+* WIFI（CNVI协议网卡全球无解）
 * MX250
 * 指纹识别
 
