@@ -12,7 +12,7 @@
 | 声卡 | Realtek ALC 256|
 | 屏幕 | 1920*1080|
 | SMBIOS | Macbook Pro 15,4|
-| Clover | Updated to 5097|
+| Clover | Updated to 5100|
 
 大家直接在Release下载吧，不在code里面上传更新了
 [GatesYang/Magicbook-Pro-16.1-Hackintosh/releases](https://github.com/GatesYang/Magicbook-Pro-16.1-Hackintosh/releases)
@@ -75,8 +75,20 @@
 * NVIDIA MX250
 * 指纹识别
 
+## 关于打赏
+
+如果您认可我的工作，请通过打赏支持我后续的更新(自觉打赏的人真少啊，免费的东西长久不了,现已改为需要收费解压，需微信或支付宝打赏入群。打赏记得发备注你的qq号，然后申请入群时，说一下，我确认后会通过你的验证的。
+
+|                                 微信                                           |                         支付宝                                       |
+| ---------------------------------------------------------- | ---------------------------------------------------- |
+| ![Wechat](Wechat CODE.jpg)                                         | ![Alipay](Alipay.jpg)                           |
+
+|                   QQ群                                          |
+| ----------------------------------------------------------| 
+| ![963407871](QQ.jpg)                                   | 
+
 ### 说明
-作者本人也是黑苹果新手一枚，有Z390 M Gaming的成功安装经历，现在入手了Magicbook Pro但发现全网都没有人做EFI(可能是因为自带的三星PM981?)，所以献丑自己摸索了好多好多好多好多好多天做了一个暂时不完善的EFI，用了TB买的USB网卡，目前看看网页写写文档都没问题，还有很多地方没有完善，其实我也有很多不会的地方，希望能和大家交流学习，一起完善这个EFI，我也会长期更新这个EFI（除非换电脑了hahahahaha）~
+作者本人也是黑苹果新手一枚，有Z390 M Gaming的成功安装经历，现在入手了Magicbook Pro但发现全网都没有人做EFI(可能是因为自带的三星PM981?)，所以自己摸索了好多好多好多好多好多天做了一个不完善的EFI，用了TB买的USB网卡，目前看看网页写写文档都没问题，还有一些地方没有完善，希望能和大家交流学习，一起完善这个EFI，我也会长期更新这个EFI！
 
 ### 感谢：
 * 1.黑苹果长期维护清单[github: frezs/MateBook14-Hackintosh](https://github.com/frezs/MateBook14-Hackintosh)
