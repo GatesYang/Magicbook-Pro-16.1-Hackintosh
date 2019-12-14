@@ -1,4 +1,4 @@
-# Magicbook-Pro-16.1-Hackintosh 黑苹果尝鲜版
+# Magicbook-Pro-16.1-Hackintosh 黑苹果稳定版
 >Install macOS Catalina 10.15.2 19C57 from Huawei Honor Magicbook Pro 16.1 HBL-W19L
 
 ### 详细配置参数
@@ -56,17 +56,17 @@
 ### 目前可用的设备
 * USB-C/HDMI输出（没尝试过同时输出，等有条件的机油测试反馈8）
 * 核芯显卡 (正确识别成UHD620 Mobile Whiskey Lake)
+* 触摸板（支持多任务手势）
 * 扬声器/耳机/麦克风 (AppleALC)
 * USB3.0/2.0
 * 显示器亮度调节（系统偏好设置-显示器）
-* FN+f1,f2亮度调节（外接USB更改快捷键），非FN+F4,F5,F6调节音量（静音，音量减，音量加）
+* f1,f2亮度调节；F4,F5,F6调节音量（静音，音量减，音量加）
 * 电池电量显示（快速充电正常）
-* 关盖睡眠以及唤醒（未测试休眠耗电）
+* 关盖睡眠以及唤醒（休眠耗电正常）
 * CPU 变频(900MHz~3900MHz)，11个档位，睿频正常
 
 ### 目前不可用
 * iMessage、Facetime、Siri（可能和网卡有关，因为涉及到MAC地址，或者有懂的朋友欢迎讨论）
-* 触摸板（暂时编译不成功）
 * 随航（sidecar）可能和网卡有关
 * 蓝牙（从Windows热启动有时可用，玄学）
 * 摄像头（不明原因，等大神指教）
@@ -95,6 +95,6 @@
 * 1.黑苹果长期维护清单[github: frezs/MateBook14-Hackintosh](https://github.com/frezs/MateBook14-Hackintosh)
 * 2.黑苹果长期维护清单[github: hjmmc/Honor-Magicbook](https://github.com/hjmmc/Honor-Magicbook)
 * 3.黑苹果长期维护清单[github: 4323770/Hackintosh-For-Matebook-X](https://github.com/4323770/Hackintosh-For-Matebook-X)
-* 4.[黑果小兵]macOS Catalina 10.15 19A583 正式版 with Clover 5096原版镜像[双EFI双平台版]
+* 4.[黑果小兵]macOS Catalina 10.15.2 19C57 正式版 with Clover 5100原版镜像[双EFI双平台版]
 * 5.[黑果小兵]Hackintool(原Intel FB-Patcher)使用教程及插入姿势
 * 6.[远景论坛-微软极客社区](http://www.pcbeta.com)
