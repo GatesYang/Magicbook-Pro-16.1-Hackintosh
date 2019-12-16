@@ -19,7 +19,7 @@
 [GatesYang/Magicbook-Pro-16.1-Hackintosh/releases](https://github.com/GatesYang/Magicbook-Pro-16.1-Hackintosh/releases)
  
 ### 长期维护更新QQ群
-  收到几个帮忙测试的朋友的邮件，都建议我改为收费提供。如果你认为值得，请为技术服务付费，享受后期免费维护更新，目前新版本都需要解压密码，密码在群中，入群9.9元以上看着给吧。QQ群号 963407871
+  收到几个帮忙测试的朋友的邮件，都建议我改为收费提供。如果你认为值得，请为技术服务付费（二维码往下拉），享受后期免费维护更新，目前新版本都需要解压密码，密码在群中，入群9.9元以上看着给吧。QQ群号 963407871
 
 ### 更新预告 
 * 1.iMessage、Facetime、Siri
