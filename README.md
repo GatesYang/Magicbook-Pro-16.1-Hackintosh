@@ -5,7 +5,7 @@
 | 项目 | 详细参数|
 | :--: | :-------------------- |
 | 型号 | Magicbook Pro 16.1 HBL-W19L |
-| CPU  | Intel Whiskey Lake i5 8265U |
+| CPU  | Intel Whiskey Lake i5 8265U & i7-8565U |
 | 内存 | DDR4 2666 8G|
 | 显卡 | Intel UHD620 2048 MB & NVIDIA MX250|
 | 硬盘 | HS(海康威视) C2000 Pro 1TB （自己购买替换的）|
@@ -17,6 +17,9 @@
 
 大家直接在Release下载吧，不在code里面上传更新了
 [GatesYang/Magicbook-Pro-16.1-Hackintosh/releases](https://github.com/GatesYang/Magicbook-Pro-16.1-Hackintosh/releases)
+
+### 关于2019版Magicbook
+  经热心群友测试，2019版Magicbook同样可以使用本efi(CPU相同)，触摸板可用，声卡id需改成57
  
 ### 长期维护更新QQ群
   收到几个帮忙测试的朋友的邮件，都建议我改为收费提供。如果你认为值得，请为技术服务付费（二维码往下拉），享受后期免费维护更新，目前新版本都需要解压密码，密码在群中，入群9.9元以上看着给吧。QQ群号 963407871
