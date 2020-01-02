@@ -13,7 +13,7 @@
 | 触控板 | ELAN 2204|
 | 屏幕 | 1920*1080|
 | SMBIOS | Macbook Pro 15,4|
-| Clover | Updated to 5100|
+| Clover | Updated to 5102|
 
 大家直接在Release下载吧，不在code里面上传更新了
 [GatesYang/Magicbook-Pro-16.1-Hackintosh/releases](https://github.com/GatesYang/Magicbook-Pro-16.1-Hackintosh/releases)
@@ -27,11 +27,17 @@
 ### 更新至此，本EFI除了无线网卡基本完美！
 
 ### 更新预告 
-* 1.摄像头黑屏修复
+* 1.摄像头黑屏修复（Magicbook 2019可用）
 * 2.更新所有驱动程序
 * 3.有朋友私信我锐龙版的能不能安装，我暂时没有实机进行测试（本EFI基于IntelCPU，不能直接用于AMD！），理论上AMD暂时只能支持到10.14.5
 
 ### 更新内容
+-2020.1.2 v2.3 Beta
+1.加入@zxystd大神开发的Intel蓝牙驱动IntelBluetoothFirmware
+2.更新Clover至5102
+3.更新所有驱动程序
+4.此版开始抹除三码，大家可以使用自己之前生成的可用三码或者用CloverConfigurator生成新的，以免发生冲突！
+
 -2019.12.21 v2.2 Beta
 * 1.修复HDMI，USB-C输出热插拔导致的死机问题
 
@@ -77,6 +83,7 @@
 * 核芯显卡 (正确识别成UHD620 Mobile Whiskey Lake)
 * 触摸板（支持多任务手势）
 * 随航（sidecar）有线连接
+* 蓝牙（可以冷启动，可以开关，连接正常，目前未发现BUG）
 * 扬声器/耳机/麦克风 (AppleALC)
 * USB3.0/2.0
 * 显示器亮度调节（系统偏好设置-显示器）
@@ -87,7 +94,6 @@
 
 ### 目前不可用
 * 摄像头（Pro版可识别型号但黑屏，Magicbook 2019可用）
-* 蓝牙（从Windows热启动可用，玄学）
 
 ### 无法驱动的设备
 * WIFI（CNVI协议网卡全球无解，要华为官方愿意开放BIOS才能更换可用的网卡，这需要大家共同努力向官方反馈）
