@@ -33,10 +33,10 @@
 
 ### 更新内容
 -2020.1.2 v2.3 Beta
-1.加入@zxystd大神开发的Intel蓝牙驱动IntelBluetoothFirmware
-2.更新Clover至5102
-3.更新所有驱动程序
-4.此版开始抹除三码，大家可以使用自己之前生成的可用三码或者用CloverConfigurator生成新的，以免发生冲突！
+* 1.加入@zxystd大神开发的Intel蓝牙驱动IntelBluetoothFirmware
+* 2.更新Clover至5102
+* 3.更新所有驱动程序
+* 4.此版开始抹除三码，大家可以使用自己之前生成的可用三码或者用CloverConfigurator生成新的，以免发生冲突！
 
 -2019.12.21 v2.2 Beta
 * 1.修复HDMI，USB-C输出热插拔导致的死机问题
