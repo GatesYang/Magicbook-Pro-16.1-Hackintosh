@@ -13,7 +13,7 @@
 | 触控板 | ELAN 2204|
 | 屏幕 | 1920*1080|
 | SMBIOS | Macbook Pro 15,4|
-| Clover | Updated to 5102|
+| Clover | Updated to 5100|
 
 大家直接在Release下载吧，不在code里面上传更新了
 [GatesYang/Magicbook-Pro-16.1-Hackintosh/releases](https://github.com/GatesYang/Magicbook-Pro-16.1-Hackintosh/releases)
@@ -35,10 +35,10 @@
 
 ### 更新内容
 -2020.1.21 v2.5 Release
-1.回退Clover至5100，解决通过Clover引导进入Win10产生的英特尔智音技术冲突
-2.蓝牙驱动使用和PM981补丁不冲突的1.0版
-3.预注入三码，但是最好按照群里的教程自己更换
-4.调整EFI内容，如无意外以后Clover更新频率会减少咯，重心转移到OC了，也欢迎大家继续支持我的OC！
+* 1.回退Clover至5100，解决通过Clover引导进入Win10产生的英特尔智音技术冲突
+* 2.蓝牙驱动使用和PM981补丁不冲突的1.0版
+* 3.去除无用的驱动
+* 4.调整EFI内容，如无意外以后Clover更新频率会减少咯，重心转移到OC了，也欢迎大家继续支持我的OC！
 
 -2020.1.2 v2.3 Beta
 * 1.加入@zxystd大神开发的Intel蓝牙驱动IntelBluetoothFirmware
