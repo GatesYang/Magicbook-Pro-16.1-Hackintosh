@@ -16,9 +16,6 @@
 | Clover | Updated to 5100|
 | OpenCore | Updated to 0.5.4|
 
-大家直接在Release下载吧，不在code里面上传更新了
-[GatesYang/Magicbook-Pro-16.1-Hackintosh/releases](https://github.com/GatesYang/Magicbook-Pro-16.1-Hackintosh/releases)
-
 ### 关于2019版Magicbook
   经热心群友测试，2019版Magicbook（i3,i5,i7）同样可以使用本efi，触摸板可用，声卡id需改成57
  
