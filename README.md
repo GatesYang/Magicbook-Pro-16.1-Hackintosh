@@ -14,12 +14,13 @@
 | 屏幕 | 1920*1080|
 | SMBIOS | Macbook Pro 15,4|
 | Clover | Updated to 5100|
+| OpenCore | Updated to 0.5.4|
 
 大家直接在Release下载吧，不在code里面上传更新了
 [GatesYang/Magicbook-Pro-16.1-Hackintosh/releases](https://github.com/GatesYang/Magicbook-Pro-16.1-Hackintosh/releases)
 
 ### 关于2019版Magicbook
-  经热心群友测试，2019版Magicbook同样可以使用本efi(CPU相同)，触摸板可用，声卡id需改成57
+  经热心群友测试，2019版Magicbook（i3,i5,i7）同样可以使用本efi，触摸板可用，声卡id需改成57
  
 ### 长期维护更新QQ群
   收到几个帮忙测试的朋友的邮件，都建议我改为收费提供。如果你认为值得，请为技术服务付费（二维码往下拉），享受后期免费维护更新，目前新版本都需要解压密码，密码在群中，入群9.9元以上看着给吧。QQ群号 963407871
@@ -33,7 +34,7 @@
 * 4.有朋友私信我锐龙版的能不能安装，我暂时没有实机进行测试（本EFI基于IntelCPU，不能直接用于AMD！），理论上AMD暂时只能支持到10.14.5
 * 5.WIFI（目前看来硬件上貌似存在PCI通道，但是好像BIOS限制了只能识别CNVI协议的网卡，因此更换DW1560，DW1820A等网卡不能被识别，要华为官方愿意开放BIOS才能更换可用的网卡，经过多次反馈，华为官方说只有反馈的人多了才愿意开放这个BIOS切换选项，这需要大家共同努力向官方反馈，拨打0755-950800，向客服说自己需要使用WiFi6的非cnvi网卡Intel AX200，要求研发部对BIOS进行更新并电话答复，客服态度很好的，但是反馈的人实在是太少了）
 
-### 更新内容
+### 更新内容（使用OC引导必须解锁CFG-Lock）
 -2020.1.21 v1.0a Beta
 * 1.加入PM981尝试补丁
 
