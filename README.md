@@ -1,5 +1,5 @@
 # Magicbook-Pro-16.1-Hackintosh 黑苹果稳定版
->Install macOS Catalina 10.15.2 19C57 from Huawei Honor Magicbook Pro 16.1 HBL-W19L
+>Install macOS Catalina 10.15.3 19D76 from Huawei Honor Magicbook Pro 16.1 HBL-W19L
 
 ### 详细配置参数
 | 项目 | 详细参数|
