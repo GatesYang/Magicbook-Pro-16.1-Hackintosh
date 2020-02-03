@@ -15,6 +15,7 @@
 | SMBIOS | Macbook Pro 15,4|
 | Clover | Updated to 5100|
 | OpenCore | Updated to 0.5.4|
+| macOS | Up to 10.15.3|
 
 ### 关于2019版Magicbook
   经热心群友测试，2019版Magicbook（i3,i5,i7）同样可以使用本efi，触摸板可用，声卡id需改成57
@@ -56,7 +57,7 @@
 * 5.OC默认直接进Mac，如果想使用Win10请在开机时按下F12使用Windows Boot Manager进入
 
 ### 更新内容 Clover
--2020.1.30 v2.6 Release
+-2020.2.3 v2.6 Beta
 * 1.应广大群友萌要求核显的显存改为2048MB
 * 2.加入大量修补，力求更稳定省电
 * 3.对睡眠唤醒进行了一定的定制
