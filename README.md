@@ -14,7 +14,7 @@
 | 屏幕 | 1920*1080|
 | SMBIOS | Macbook Pro 15,4|
 | Clover | Updated to 5100|
-| OpenCore | Updated to 0.5.4|
+| OpenCore | Updated to 0.5.5|
 | macOS | Up to 10.15.3|
 
 ### 关于2019版Magicbook
