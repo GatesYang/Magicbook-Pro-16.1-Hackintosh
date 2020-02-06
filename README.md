@@ -45,7 +45,7 @@
 * 5.未解锁CFG的话，把文件夹里面的config.plist删掉，再将config-b.plist改名成confi.plist
 * 6.PM981补丁貌似和OC存在冲突，暂时在OC上停止加入PM981补丁
 
-### (a用于PM981&解锁CFG-lock；b用于非981未解锁CFG；c用于981未解锁CFG)
+* a用于PM981&解锁CFG-lock；b用于非981未解锁CFG；c用于981未解锁CFG
 -2020.1.30 v1.2 Release
 * 1.优化耗电，CPU变频
 * 2.修复睡眠，现在睡眠有更好的表现
