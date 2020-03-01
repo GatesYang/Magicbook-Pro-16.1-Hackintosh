@@ -52,7 +52,7 @@
 * MX250（NVIDIA的老黄和苹果决裂了，估计有生之年是难驱动了）
 
 ### 更新内容 OpenCore（Clover更新内容在下方）
--2020.3.1 v3.0 Release
+-2020.2.29 v3.0 Release
 * 1.使用OpenCore分支MOD版，更新至OC 0.5.6-2020.2.29
 * 2.加入选择启动项的时候的背景图片（类似Clover的启动界面）。如果想替换背景图片，请用1920X1080(分辨率必须一模一样，否则不会显示)的PNG图片，替换Icons文件夹里面的background.png
 * 3.现在可以直接使用OpenCore引导Windows了（BootCamp Windows）
