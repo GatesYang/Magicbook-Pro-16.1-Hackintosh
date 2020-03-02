@@ -52,6 +52,10 @@
 * MX250（NVIDIA的老黄和苹果决裂了，估计有生之年是难驱动了）
 
 ### 更新内容 OpenCore（Clover更新内容在下方）
+-2020.3.1 v3.1 Release
+* 1.支持C口+HDMI同时输出(测试通过)
+* 2.从此版开始，默认的config.plist为已经解锁Cfg-Lock和修改DVMT64M适用的配置（二者缺一不可），config-no-Cfg&DVMT为从未对BIOS进行过高级修改所使用的config（关闭安全启动不算高级更改）
+
 -2020.2.29 v3.0 Release
 * 1.使用OpenCore分支MOD版，更新至OC 0.5.6-2020.2.29
 * 2.加入选择启动项的时候的背景图片（类似Clover的启动界面）。如果想替换背景图片，请用1920X1080(分辨率必须一模一样，否则不会显示)的PNG图片，替换Icons文件夹里面的background.png
