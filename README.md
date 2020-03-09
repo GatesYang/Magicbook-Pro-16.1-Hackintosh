@@ -52,6 +52,29 @@
 * MX250（NVIDIA的老黄和苹果决裂了，估计有生之年是难驱动了）
 
 ### 更新内容 OpenCore（Clover更新内容在下方）
+-2020.3.8 v3.6 Release
+* 1.一些小修小补，提升稳定性
+* 2.优化耗电
+
+-2020.3.7 v3.5 Release
+* 1.恢复使用OpenCore 0.5.6官方Release版本，此版开始，不会再适配OC引导Windows，除非OC官方进行完美适配
+* 2.在启动界面默认倒计时3秒进入系统是为了方便大家进行Reset NVRAM操作，想在Grub引导选择OpenCore以后直接进入macOS，请参考群文件“跳过引导界面的倒计时.png”
+* 3.如果想使用图形化的启动磁盘选择界面，可以用OCG在config.plist中，选择UEFI设置-> UEFI驱动-> 浏览-> 选择Drivers文件夹里面的NdkBootPicker.efi并确定；同时在Misc-其他设置-> Boot-> PickerMode选择“External”
+* 4.如果想体验白果的开机声音，可以用OCG到UEFI设置-Audio-勾选AduioSupport和PlayChime，同时在UEFI设置-> UEFI驱动-> 浏览-> 选择Drivers文件夹里面的AudioDxe.efi并确定。（加载此驱动会使得开机慢几秒）
+* 5.启动界面为默认图标和背景，可以个性化，自行定制请操作Icons文件夹
+* 6.Grub引导：从此版开始，如果想引导Windows，请将群文件中BootMenu文件夹粘贴至EFI文件夹下，使用easyUEFI将BootMenu.efi设置为第一启动项“和设置OpenCore.efi的步骤一模一样”。此为Grub引导，自定义背景图和内容请操作themes文件夹
+
+-2020.3.5 v3.4 Release
+* 1.使用OpenCore分支MOD版，更新至OC 0.5.7-2020.3.3
+* 2.根据新的OC适配优化选项和设置
+* 3.如果想体验白果的开机声音，可以用OCG到UEFI设置-Audio-勾选AduioSupport和PlayChime
+* 4.启动界面为默认图标和背景，可以个性化，自行定制请操作Icons文件夹
+
+-2020.3.3 v3.3 Release
+* 1.使用OpenCore 0.5.6官方Release，加入NdkBootPicker的OC启动界面UI，自行定制请操作Icons文件夹（感谢@Takagi-sang提供的背景图片）
+* 2.更新声卡、显卡等全家桶驱动程序
+* 3.为了减少出错，推荐做一次Reset NVRAM，并认真仔细看上面的注意事项！
+
 -2020.3.1 v3.1 Release
 * 1.支持C口+HDMI同时输出(测试通过)
 * 2.从此版开始，默认的config.plist为已经解锁Cfg-Lock和修改DVMT64M适用的配置（二者缺一不可），config-no-Cfg&DVMT为从未对BIOS进行过高级修改所使用的config（关闭安全启动不算高级更改）
