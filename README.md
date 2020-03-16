@@ -52,11 +52,12 @@
 * MX250（NVIDIA的老黄和苹果决裂了，估计有生之年是难驱动了）
 
 ### 更新内容 OpenCore（Clover更新内容在下方）
--2020.3.16 v3.7 Release
+-2020.3.17 v3.7 Release
 * 1.修复偶尔可能出现的热启动系统失败问题
 * 2.使用Nvmefix驱动1.0.2
-* 3.如果出现USBwifi不可用的问题，建议大家卸载以前安装的USBwifi驱动（按住Start/Windows键，鼠标单击wifi图标，卸载/Uninstall），然后安装群文件中的Wireless USB Adapter-V11 New.pkg；（防止大家无法联网，特地把pkg安装包打包进OC文件夹）
-* 4.关于扬声器声音小的问题，请使用群文件的Boom3D（感谢群友fxxk和407729~）；同时建议大家善用群文件夹“OC安装完以后做的一些优化”
+* 3.修复魔法书Pro的USB-A口苹果设备快充问题（步骤：用OCG在config.plist中，选择Kernel-内核设置-> 添加-> 在USBPorts.kext的最右边勾选“启用”）非Pro的设备可能会导致USB2.0口不可用，无实机进行测试
+* 4.如果出现USBwifi不可用的问题，建议大家卸载以前安装的USBwifi驱动（按住Start/Windows键，鼠标单击wifi图标，卸载/Uninstall），然后安装群文件中的Wireless USB Adapter-V11 New.pkg；（防止大家无法联网，特地把pkg安装包打包进OC文件夹）
+* 5.关于扬声器声音小的问题，请使用群文件的Boom3D（感谢群友fxxk和407729~）；同时建议大家善用群文件夹“OC安装完以后做的一些优化”
 
 -2020.3.8 v3.6 Release
 * 1.一些小修小补，提升稳定性
