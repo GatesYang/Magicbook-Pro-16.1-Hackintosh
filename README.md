@@ -50,6 +50,7 @@
 * 摄像头（Pro版可识别型号但黑屏，Magicbook 2019可用）
 * 指纹
 * MX250（NVIDIA的老黄和苹果决裂了，估计有生之年是难驱动了）
+* intel 9560 WIFI
 
 ### 更新内容 OpenCore（Clover更新内容在下方）
 -2020.3.17 v3.7 Release
