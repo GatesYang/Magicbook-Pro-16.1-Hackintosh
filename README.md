@@ -54,7 +54,7 @@
 
 ### 更新内容 OpenCore（Clover更新内容在下方）
 -2020.3.20 v4.0 Release
-* 1.在@Zero-zer0大佬的帮助下，进一步优化2019非Pro机型的触摸板！！！从本次更新开始，Pro和非Pro将使用不同的config.plist！
+* 1.在[@Zero-zer0](https://github.com/Zero-zer0) 大佬的帮助下，进一步优化2019非Pro机型的触摸板！！！从本次更新开始，Pro和非Pro将使用不同的config.plist！
 
 -2020.3.20 v3.9 Release
 * 1.在[@Zero-zer0](https://github.com/Zero-zer0) 大佬的帮助下，对SSDT和重命名进行完全优化！
