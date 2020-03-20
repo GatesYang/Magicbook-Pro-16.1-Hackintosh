@@ -232,7 +232,7 @@
 * 6.升级Clover至5100（ Clover的升级日志说5098对10.15做了优化，我们的v1.5版刚好是5097）
 * 7.电池管理替换成更好的SMCBatteryManager
 * 8.添加“文件保险箱”功能所需驱动（有待测试）
-* 9.此次更新部分代码参考了@hjmmc的成熟代码，在此表示感谢！
+* 9.此次更新部分代码参考了[@hjmmc](https://github.com/hjmmc/Honor-Magicbook)大佬的成熟代码，在此表示感谢！
 * 10.更新所有驱动程序（AppleALC，Virtual SMC等）
 
 -2019.12.12 v1.5 
