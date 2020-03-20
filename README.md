@@ -276,9 +276,11 @@
 作者本人也是黑苹果新手一枚，有Z390 M Gaming的成功安装经历，现在入手了Magicbook Pro但发现全网都没有人做EFI(可能是因为自带的三星PM981?)，所以自己摸索了好多好多天做了一个不完善的EFI，用了TB买的USB网卡，目前看看网页写写文档都没问题，还有一些地方没有完善，希望能和大家交流学习，一起完善这个EFI，我也会长期更新这个EFI！
 
 ### 感谢：
-* 1.黑苹果长期维护清单[github: hjmmc/Honor-Magicbook](https://github.com/hjmmc/Honor-Magicbook)
-* 2.黑苹果长期维护清单[github: frezs/MateBook14-Hackintosh](https://github.com/frezs/MateBook14-Hackintosh)
-* 3.黑苹果长期维护清单[github: 4323770/Hackintosh-For-Matebook-X](https://github.com/4323770/Hackintosh-For-Matebook-X)
-* 4.[黑果小兵]macOS Catalina 10.15.2 19C57 正式版 with Clover 5100原版镜像[双EFI双平台版]
-* 5.[黑果小兵]Hackintool(原Intel FB-Patcher)使用教程及插入姿势
-* 6.[远景论坛-微软极客社区](http://www.pcbeta.com)
+* 1.黑苹果长期维护清单[github: Zero-zer0/Matebook_D_2018](https://github.com/Zero-zer0/Matebook_D_2018_Hackintosh_OpenCore)
+* 2.黑苹果长期维护清单[github: hjmmc/Honor-Magicbook](https://github.com/hjmmc/Honor-Magicbook)
+* 3.黑苹果长期维护清单[github: Zero-zer0/Matebook_13_14_2020](https://github.com/Zero-zer0/Matebook_13_14_2020_Hackintosh_OpenCore)
+* 4.黑苹果长期维护清单[github: frezs/MateBook14-Hackintosh](https://github.com/frezs/MateBook14-Hackintosh)
+* 5.黑苹果长期维护清单[github: 4323770/Hackintosh-For-Matebook-X](https://github.com/4323770/Hackintosh-For-Matebook-X)
+* 6.[黑果小兵]macOS Catalina 10.15.3 19D76 正式版 with Clover 5103原版镜像[双EFI版](https://blog.daliansky.net/macOS-Catalina-10.15.3-19D76-Release-version-with-Clover-5103-original-image-Double-EFI-Version.html)
+* 7.[黑果小兵]Hackintool(原Intel FB-Patcher)使用教程及插入姿势
+* 8.[远景论坛-微软极客社区](http://www.pcbeta.com)
