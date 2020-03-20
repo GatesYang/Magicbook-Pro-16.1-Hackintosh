@@ -281,6 +281,6 @@
 * 3.黑苹果长期维护清单[github: Zero-zer0/Matebook_13_14_2020](https://github.com/Zero-zer0/Matebook_13_14_2020_Hackintosh_OpenCore)
 * 4.黑苹果长期维护清单[github: frezs/MateBook14-Hackintosh](https://github.com/frezs/MateBook14-Hackintosh)
 * 5.黑苹果长期维护清单[github: 4323770/Hackintosh-For-Matebook-X](https://github.com/4323770/Hackintosh-For-Matebook-X)
-* 6.[黑果小兵]macOS Catalina 10.15.3 19D76 正式版 with Clover 5103原版镜像[双EFI版](https://blog.daliansky.net/macOS-Catalina-10.15.3-19D76-Release-version-with-Clover-5103-original-image-Double-EFI-Version.html)
+* 6.[黑果小兵][macOS Catalina 10.15.3 19D76 正式版 with Clover 5103原版镜像](https://blog.daliansky.net/macOS-Catalina-10.15.3-19D76-Release-version-with-Clover-5103-original-image-Double-EFI-Version.html)
 * 7.[黑果小兵]Hackintool(原Intel FB-Patcher)使用教程及插入姿势
 * 8.[远景论坛-微软极客社区](http://www.pcbeta.com)
