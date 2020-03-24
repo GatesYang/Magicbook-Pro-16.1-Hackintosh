@@ -54,7 +54,7 @@
 
 ### 更新内容 OpenCore（Clover更新内容在下方）
 -2020.3.25 v4.1 Release
-* 1.修改ScanPolicy，解决部分群友奇奇怪怪的无法引导进U盘进行全新安装的现象
+* 1.修改ScanPolicy，解决部分群友奇奇怪怪的无法引导进U盘进行全新安装的现象(如果出现Time Machine或者BOOTCAMP Windows等等其它引导为默认第一启动项的情况，请用上下键选择至Mac OS，然后按下Ctrl+Enter，即可设置Mac OS为“默认启动项”
 * 2.一些常规优化
 
 -2020.3.20 v4.0 Release
