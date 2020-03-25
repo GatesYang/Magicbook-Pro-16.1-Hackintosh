@@ -1,5 +1,5 @@
 # Magicbook-Pro-16.1-Hackintosh 黑苹果稳定版
->Install macOS Catalina 10.15.3 19D76 from Huawei Honor Magicbook Pro 16.1 HBL-W19L
+>Install macOS Catalina 10.15.4 19E266 from Huawei Honor Magicbook Pro 16.1 HBL-W19L
 
 ### 详细配置参数
 | 项目 | 详细参数|
@@ -15,7 +15,7 @@
 | SMBIOS | Macbook Pro 15,4|
 | Clover | Updated to 5100|
 | OpenCore | Updated to 0.5.6|
-| macOS | Up to 10.15.3|
+| macOS | Up to 10.15.4|
 
 ### 关于2019版Magicbook
   经热心群友测试，2019版Magicbook（i3,i5,i7）同样可以使用本efi，触摸板可用，声卡id需改成57
@@ -52,7 +52,13 @@
 * MX250（NVIDIA的老黄和苹果决裂了，估计有生之年是难驱动了）
 * intel 9560 WIFI
 
-### 更新内容 OpenCore（Clover更新内容在下方）
+
+### 更新内容 OpenCore
+### （为了解决群友的三星PM981还原大法安装问题，特地更新了Clover 2020.3.25 v3.2，详细更新内容在下方）
+-2020.3.25 v4.2 Release
+* 1.更新支持10.15.4，触摸板可用
+* 2.此版开始Pro和非Pro重新合并成一个config，请注意！
+
 -2020.3.25 v4.1 Release
 * 1.修改ScanPolicy，解决部分群友奇奇怪怪的无法引导进U盘进行全新安装的现象(如果出现Time Machine或者BOOTCAMP Windows等等其它引导为默认第一启动项的情况，请用上下键选择至Mac OS，然后按下Ctrl+Enter，即可设置Mac OS为“默认启动项”
 * 2.一些常规优化
@@ -189,6 +195,16 @@
 * 5.OC默认直接进Mac，如果想使用Win10请在开机时按下F12使用Windows Boot Manager进入
 
 ### 更新内容 Clover
+-2020.3.25 v3.2 Release
+* 1.同步群主的OC最近更新所具备的新特性
+* 2.支持至10.15.4，触摸板可用
+
+-2020.3.25 v3.1 Beta
+* 1.同步群主的OC最近更新所具备的新特性
+* 2.测试版可能会有各种问题（甚至可能无法开机）
+* 3.加入pm981补丁
+* 4.更新所有驱动程序
+
 -2020.2.13 v2.9 Release
 * 1.修复USB导致的睡眠唤醒问题
 * 2.修复开启Hidpi后可能出现的开机阶段苹果图标变大的问题
