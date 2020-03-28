@@ -54,6 +54,10 @@
 
 ### 目前三星PM981硬盘只能使用Clover引导*（因为补丁不支持OpenCore）*，同时也只能使用还原大法安装黑苹果，为了解决群友的三星PM981还原大法安装问题，特地更新了Clover 2020.3.25 v3.2，详细更新内容在OpenCore更新内容的下方。但是PM981会遇到偶尔无缘无故死机、重启、无法直接升级系统等等奇怪的问题（详情请百度：黑苹果 PM981），所以想稳定使用黑苹果的话，还是建议换掉PM981硬盘以获得更好的体验，如果使用2019 Pro的话可以加装一个SATA固态硬盘；
 ### 更新内容 OpenCore
+-2020.3.28 v4.3 Release
+* 1.增加睡眠时禁用USB设备唤醒的功能(感谢[@hjmmc](https://github.com/hjmmc/Honor-Magicbook)大佬！[@Zero-zer0](https://github.com/Zero-zer0)大佬！）如果不喜欢，请自行取消勾选SSDT-GPRW和去除重命名GPRW to XPRW
+* 2.添加USBPorts-noPro.kext，为非Pro群友定制USB实现苹果设备快充等功能(感谢热心群友@xh和@江枫 的测试！)
+
 -2020.3.25 v4.2 Release
 * 1.更新支持10.15.4，触摸板可用
 * 2.此版开始Pro和非Pro重新合并成一个config，请注意！
@@ -194,6 +198,11 @@
 * 5.OC默认直接进Mac，如果想使用Win10请在开机时按下F12使用Windows Boot Manager进入
 
 ### 更新内容 Clover
+-2020.3.28 v3.3.1 Release
+* 1.增加睡眠时禁用USB设备唤醒的功能(感谢@hjmmc大佬！@Zero大佬！）如果不喜欢，请自行删除SSDT-GPRW和去除重命名GPRW to XPRW
+* 2.提升稳定性
+* 3.非Pro的群友如果遇到无法使用键盘的情况，请将SSDT-PS2N.aml放入ACPI/patched内，作为应急使用！
+
 -2020.3.25 v3.2 Release
 * 1.同步群主的OC最近更新所具备的新特性
 * 2.支持至10.15.4，触摸板可用
