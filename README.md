@@ -17,6 +17,8 @@
 | OpenCore | Updated to 0.5.7|
 | macOS | Up to 10.15.4|
 
+### 关于2020版Magicbook（Pro）
+  目前群里正在进行适配，理论上各方面都没什么大问题，但是参与测试的群友比较少
 ### 关于2019版Magicbook
   经热心群友测试，2019版Magicbook（i3,i5,i7）同样可以使用本efi，触摸板可用，声卡id需改成22或57或17*
  
