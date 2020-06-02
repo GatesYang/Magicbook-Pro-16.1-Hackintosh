@@ -1,5 +1,5 @@
 # Magicbook-Pro-16.1-Hackintosh 黑苹果稳定版
->Install macOS Catalina 10.15.4 19E266 from Huawei Honor Magicbook Pro 16.1 HBL-W19L
+>Install macOS Catalina 10.15.6 19G36e from Huawei Honor Magicbook Pro 16.1 HBL-W19L
 
 ### 详细配置参数
 | 项目 | 详细参数|
@@ -14,13 +14,13 @@
 | 屏幕 | 1920*1080|
 | SMBIOS | Macbook Pro 15,4|
 | Clover | Updated to 5100|
-| OpenCore | Updated to 0.5.7|
-| macOS | Up to 10.15.4|
+| OpenCore | Updated to 0.5.9|
+| macOS | Up to 10.15.6|
 
 ### 关于2020版Magicbook（Pro）
   目前群里正在进行适配，理论上各方面都没什么大问题，但是参与测试的群友比较少
 ### 关于2019版Magicbook
-  经热心群友测试，2019版Magicbook（i3,i5,i7）同样可以使用本efi，触摸板可用，声卡id需改成22或57或17*
+  本群已适配2019版非Pro（i3,i5,i7）的Magicbook，同步所有更新的特性
  
 ### 长期维护更新QQ群
   收到几位帮忙测试的朋友的邮件，都建议我改为收费提供。如果你认为值得，请为技术服务付费（二维码往下拉），享受后期免费维护更新，理论上永久更新至荣耀官方放弃这台机子（价位可以参考淘宝安装黑苹果价格，tb安装的还不会给你更新哦。只是请群主喝杯咖啡而已，群主为这个EFI真的是付出了几百甚至几千小时的努力和心血的）目前新版本都需要解压密码，密码在群中，群中有详细的Clover/OpenCore/PM981还原大法安装教程，还有群主和群友们的热♂心指导，小白也能快速入门！入群9.9元以上看着给吧 QQ群号 963407871
@@ -43,6 +43,15 @@
 * CPU 变频、睿频、超线程正常
 
 ### 更新内容 OpenCore
+-2020.6.2 v4.7.0 Release
+* 1.同步OpenCore0.5.9更新
+* 2.更新所有驱动程序
+* 3.下一版更新将加入z大编写的itlwm（可切换不同的wifi）
+
+-2020.5.17 v4.6.6 Release
+* 1.修复OC0.5.8下的触摸板BUG
+* 2.如果遇到开机后半段进度条特别慢的情况，请在进入桌面后第一时间重启（关机也会变慢），出现这种情况是因为蓝牙驱动出问题了，目前只能等蓝牙大佬更新
+
 -2020.5.9 v4.6 Release
 * 1.内测群友更新至OC 0.5.8
 
