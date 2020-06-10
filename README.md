@@ -1,11 +1,12 @@
-# Magicbook-Pro-16.1-Hackintosh 黑苹果稳定版
->Install macOS Catalina 10.15.6 19G36e from Huawei Honor Magicbook Pro 2019&2020
+# Magicbook-(Pro)-16.1-Hackintosh-2019&2020 黑苹果稳定版
+>Install macOS Catalina 10.15.6 19G36e from Huawei Honor Magicbook (Pro) 2019&2020
 
 ### 详细配置参数
 | 项目 | 详细参数|
 | :--: | :-------------------- |
-| 型号 | Magicbook Pro 16.1 HBL-W19L |
-| CPU  | Intel Whiskey Lake i5 8265U & i7-8565U |
+| 型号 | Magicbook (Pro) |
+| CPU1 | Intel Whiskey Lake i3-8145U & i5 8265U & i7-8565U |
+| CPU2 | Intel Whiskey Lake i5-10210u & i7-10710U |
 | 内存 | DDR4 2666 8G|
 | 显卡 | Intel UHD620 2048 MB & NVIDIA MX250|
 | 硬盘 | HS(海康威视) C2000 Pro 1TB （自己购买替换的）|
@@ -28,7 +29,7 @@
 ### 群中已经有内置Intelwifi的测试驱动，日常使用没毛病
 
 ### 目前可用的设备
-* intel 9560 cnvi Wifi（足够日常使用）
+* intel 9560 cnvi Wifi（日常使用完美）
 * USB-C/HDMI输出（同时输出正常，加上随航一共4个显示器没毛病，亲测！）
 * 随航（sidecar）有线连接
 * 核芯显卡
@@ -43,6 +44,9 @@
 * CPU 变频、睿频、超线程正常
 
 ### 更新内容 OpenCore
+-2020.6.10 v4.7.2 Release
+* 1.加入z大编写的itlwm至开机启动项（可切换不同的wifi）
+
 -2020.6.2 v4.7.0 Release
 * 1.同步OpenCore0.5.9更新
 * 2.更新所有驱动程序
