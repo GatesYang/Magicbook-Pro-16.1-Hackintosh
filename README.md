@@ -6,7 +6,7 @@
 | :--: | :-------------------- |
 | 型号 | Magicbook (Pro) |
 | CPU1 | Intel Whiskey Lake i3-8145U & i5 8265U & i7-8565U |
-| CPU2 | Intel Whiskey Lake i5-10210u & i7-10710U |
+| CPU2 | Intel Comet Lake i5-10210u & i7-10710U |
 | 内存 | DDR4 2666 8G|
 | 显卡 | Intel UHD620 2048 MB & NVIDIA MX250|
 | 硬盘 | HS(海康威视) C2000 Pro 1TB （自己购买替换的）|
