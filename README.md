@@ -16,7 +16,7 @@
 | SMBIOS | Macbook Pro 15,4|
 | Clover | Updated to 5100|
 | OpenCore | Updated to 0.6.0|
-| macOS | Up to 11.0 Big Sur|
+| macOS | Up to 11.0 Big Sur Beta4|
 
 ### 关于2020版Magicbook（Pro）
   2020已经完成适配，各功能正常！
