@@ -4,7 +4,7 @@
 ### 详细配置参数
 | 项目 | 详细参数|
 | :--: | :-------------------- |
-| 型号 | Magicbook (Pro) |
+| 型号 | Magicbook (Pro) 2019&2020 |
 | CPU1 | Intel Whiskey Lake i3-8145U & i5 8265U & i7-8565U |
 | CPU2 | Intel Comet Lake i5-10210u & i7-10710U |
 | 内存 | DDR4 2666 8G|
