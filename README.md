@@ -29,7 +29,7 @@
 ### 群中已经有内置Intelwifi的测试驱动，日常使用没毛病
 
 ### 目前可用的设备
-* intel 9560 cnvi Wifi（日常使用完美）2020版本的9560网卡暂不支持
+* intel 9560 cnvi Wifi（日常使用完美）2020版本的MagicBook Pro也支持
 * USB-C/HDMI输出（同时输出正常，加上随航一共4个显示器没毛病，亲测！）
 * 随航（sidecar）有线连接
 * 核芯显卡
@@ -44,6 +44,9 @@
 * CPU 变频、睿频、超线程正常
 
 ### 更新内容 OpenCore
+-2020.8.8 v4.9 Release
+* 1.修复已知问题，更新支持至Big Sur Beta4
+
 -2020.7.16 v4.8 Beta
 * 1.更新至OpenCore 0.6.0beta，以支持Big Sur
 
