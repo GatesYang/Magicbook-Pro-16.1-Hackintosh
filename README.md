@@ -44,6 +44,12 @@
 * CPU 变频、睿频、超线程正常
 
 ### 更新内容 OpenCore
+-2020.9.8 v5.0 Release
+* 1.同步OpenCore0.6.1更新
+* 2.更新所有驱动程序
+* 3.内置Z大 itlwm 1.0.0 Release
+* 4.经测试可以直接全新安装Big Sur Public Beta 2
+
 -2020.8.8 v4.9 Release
 * 1.修复已知问题，更新支持至Big Sur Beta4
 
