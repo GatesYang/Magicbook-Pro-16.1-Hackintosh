@@ -44,6 +44,9 @@
 * CPU 变频、睿频、超线程正常
 
 ### 更新内容 OpenCore
+-2020.9.24 v5.0.1 Release
+* 1.对Big Sur Developer Beta 8 进行细节适配，经测试可以直接全新安装
+
 -2020.9.8 v5.0 Release
 * 1.同步OpenCore0.6.1更新
 * 2.更新所有驱动程序
