@@ -16,7 +16,7 @@
 | SMBIOS | Macbook Pro 15,4|
 | Clover | Updated to 5100|
 | OpenCore | Updated to 0.6.1|
-| macOS | Up to 11.0 Big Sur Public Beta 2|
+| macOS | Up to 11.0 Big Sur Developer Beta 9|
 
 ### 关于2020版Magicbook（Pro）
   2020已经完成适配，各功能正常！
@@ -44,6 +44,13 @@
 * CPU 变频、睿频、超线程正常
 
 ### 更新内容 OpenCore
+-2020.10.6 v5.2 Release
+* 1.更新至OpenCore 0.6.2 Release
+* 2.更新驱动全家桶
+* 3.添加Z大Airportitlwm，舍弃Heliport客户端，请直接在状态栏使用系统自带wifi
+* 4.支持至Big Sur Developer Beta 9
+* 5.加入长按电源键两秒锁屏，三秒弹出“关机重启菜单”功能
+
 -2020.9.24 v5.0.1 Release
 * 1.对Big Sur Developer Beta 8 进行细节适配，经测试可以直接全新安装
 
