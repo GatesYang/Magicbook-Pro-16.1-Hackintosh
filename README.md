@@ -15,7 +15,7 @@
 | 屏幕 | 1920*1080|
 | SMBIOS | Macbook Pro 15,4|
 | Clover | Updated to 5100|
-| OpenCore | Updated to 0.6.1|
+| OpenCore | Updated to 0.6.2|
 | macOS | Up to 11.0 Big Sur Developer Beta 10|
 
 ### 关于2020版Magicbook（Pro）
