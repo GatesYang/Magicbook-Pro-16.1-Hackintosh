@@ -44,6 +44,10 @@
 * CPU 变频、睿频、超线程正常
 
 ### 更新内容 OpenCore
+-2020.11.16 v5.3.2 Release for Big Sur Only
+* 1.修复群友心心念念的下载速度显示为0的问题
+* 2.一些细节调整
+
 -2020.11.6 v5.3.1 Release for Big Sur Only
 * 1.适配Big Sur 11.0.1 正式版
 
