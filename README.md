@@ -46,6 +46,11 @@
 * CPU 变频、睿频、超线程正常
 
 ### 更新内容 OpenCore
+-2020.12.12 v5.4 Release for Big Sur Only
+* 1.更新至OpenCore 0.6.4 Release
+* 2.更新驱动全家桶
+* 3.更新Airportitlwm-20201204
+
 -2020.11.26 v5.3.3 Release
 * 1.更新Airportitlwm-20201115，提升稳定性（链接成功率，睡眠唤醒断网修复等等）
 
