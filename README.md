@@ -46,6 +46,12 @@
 * CPU 变频、睿频、超线程正常
 
 ### 更新内容 OpenCore
+-2021.1.8 v5.5 Release for Big Sur Only
+* 1.更新至OpenCore 0.6.4 Release
+* 2.更新驱动全家桶
+* 3.调整了一些性能设置
+* 4.更新Airportitlwm-20210102，大幅提升速度和稳定性（自测上传30Mbps，下载100Mbps）
+
 -2020.12.12 v5.4 Release for Big Sur Only
 * 1.更新至OpenCore 0.6.4 Release
 * 2.更新驱动全家桶
