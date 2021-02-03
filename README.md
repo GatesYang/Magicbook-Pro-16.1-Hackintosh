@@ -1,5 +1,5 @@
 # Magicbook-(Pro)-16.1-Hackintosh-2019&2020 黑苹果稳定版
->Install macOS Catalina 11.0.1 20B29 from Huawei Honor Magicbook (Pro) 2019&2020
+>Install macOS Catalina 11.2 20D64 from Huawei Honor Magicbook (Pro) 2019&2020
 
 ### 详细配置参数
 | 项目 | 详细参数|
@@ -15,8 +15,8 @@
 | 屏幕 | 1920*1080|
 | SMBIOS | Macbook Pro 15,4|
 | Clover | Updated to 5100|
-| OpenCore | Updated to 0.6.5|
-| macOS | Up to Big Sur Release 11.1|
+| OpenCore | Updated to 0.6.6|
+| macOS | Up to Big Sur Release 11.2|
 
 ### 关于2020版Magicbook（Pro）
   2020已经完成适配，各功能正常，使用情况和2019版一致！
@@ -46,6 +46,12 @@
 * CPU 变频、睿频、超线程正常
 
 ### 更新内容 OpenCore
+-2021.2.3 v5.6 Release for Big Sur Only
+* 1.更新至OpenCore 0.6.6 Release
+* 2.更新驱动全家桶
+* 3.适配MacOS Big Sur 11.2 正式版
+* 4.更新Airportitlwm-20210203，再次大幅提升速度和稳定性（群主自测上传40Mbps，下载200Mbps）
+
 -2021.1.8 v5.5 Release for Big Sur Only
 * 1.更新至OpenCore 0.6.5 Release
 * 2.更新驱动全家桶
