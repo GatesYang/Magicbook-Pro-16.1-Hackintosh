@@ -1,5 +1,5 @@
 # Magicbook-(Pro)-16.1-Hackintosh-2019&2020 黑苹果稳定版
->Install macOS Catalina 11.2.2 20D80 from Huawei Honor Magicbook (Pro) 2019&2020
+>Install macOS Catalina 11.2.3 20D91 from Huawei Honor Magicbook (Pro) 2019&2020
 
 ### 详细配置参数
 | 项目 | 详细参数|
