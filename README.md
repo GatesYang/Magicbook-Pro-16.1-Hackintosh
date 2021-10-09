@@ -46,6 +46,10 @@
 * CPU 变频、睿频、超线程正常
 
 ### 更新内容 OpenCore
+-2021.10.9 v6.4 Release for Big Sur Only
+* 1.更新至OpenCore 0.7.4 Release
+* 2.更新驱动全家桶
+
 -2021.9.14 v6.3 Release for Big Sur Only
 * 1.更新至OpenCore 0.7.3 Release
 * 2.更新驱动全家桶
