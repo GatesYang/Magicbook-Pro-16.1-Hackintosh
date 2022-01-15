@@ -1,5 +1,5 @@
 # Magicbook-(Pro)-16.1-Hackintosh-2019&2020 黑苹果稳定版
->Install macOS Monterey 12.0.1 21A559 from Huawei Honor Magicbook (Pro) 2019&2020
+>Install macOS Monterey 12.1 21C52 from Huawei Honor Magicbook (Pro) 2019&2020
 
 ### 详细配置参数
 | 项目 | 详细参数|
@@ -15,8 +15,8 @@
 | 屏幕 | 1920*1080|
 | SMBIOS | Macbook Pro 15,4|
 | Clover | Updated to 5100|
-| OpenCore | Updated to 0.7.5|
-| macOS | Up to Monterey Release 12.0.1|
+| OpenCore | Updated to 0.7.7|
+| macOS | Up to Monterey Release 12.1|
 
 ### 关于2020版Magicbook（Pro）
   2020已经完成适配，各功能正常，使用情况和2019版一致！
@@ -46,6 +46,13 @@
 * CPU 变频、睿频、超线程正常
 
 ### 更新内容 OpenCore
+-2022.1.15 v6.7 Release for Monterey Only
+* 1.更新至OpenCore 0.7.7 Release
+* 2.更新驱动全家桶
+* 3.更新wifi驱动至Airportitlwm-v2.1.0-stable
+* 4.更新蓝牙驱动至IntelBluetoothFirmware-v2.1.0-stable
+* 5.适配MacOS Monterey 12.1 21C52 正式版
+
 -2021.11.11 v6.5 Release for Monterey Only
 * 1.更新至OpenCore 0.7.5 Release
 * 2.更新驱动全家桶
