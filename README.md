@@ -1,5 +1,5 @@
 # Magicbook-(Pro)-16.1-Hackintosh-2019&2020 黑苹果稳定版
->Install macOS Monterey 12.3.1 21E258 from Huawei Honor Magicbook (Pro) 2019&2020
+>Install macOS Monterey 12.4 21F79 from Huawei Honor Magicbook (Pro) 2019&2020
 
 ### 详细配置参数
 | 项目 | 详细参数|
@@ -15,8 +15,8 @@
 | 屏幕 | 1920*1080|
 | SMBIOS | Macbook Pro 15,4|
 | Clover | Updated to 5100|
-| OpenCore | Updated to 0.8.0|
-| macOS | Up to Monterey Release 12.3.1|
+| OpenCore | Updated to 0.8.1|
+| macOS | Up to Monterey Release 12.4|
 
 ### 关于2020版Magicbook（Pro）
   2020已经完成适配，各功能正常，使用情况和2019版一致！
@@ -46,6 +46,12 @@
 * CPU 变频、睿频、超线程正常
 
 ### 更新内容 OpenCore
+-2022.6.10 v8.1 Release for Monterey Only
+* 1.更新至OpenCore 0.8.1 Release
+* 2.由于Opencore Configurator尚未适配0.8.1，请使用时点击左上角偏好设置，第二页，将版本属性改为0.8.1开发版！
+* 3.适配MacOS Monterey 12.4 21F79 正式版
+* 4.修复部分群友遇到的开机卡和闪屏问题
+
 -2022.4.23 v8.0 Release for Monterey Only
 * 1.更新至OpenCore 0.8.0 Release
 * 2.更新驱动全家桶
